@@ -32,7 +32,7 @@ const Gallery = () => {
     {
       title: 'Grand Piano Close-up',
       category: 'Instruments',
-      image: 'https://images.pexels.com/photos/1268558/pexels-photo-1268558.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image:std1
     },
     {
       title: 'Jazz Performance',
